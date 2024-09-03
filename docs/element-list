@@ -1,0 +1,13 @@
+baller.example.GritAcademyAPI
+baller.example.GritAcademyAPI.Courses.controller
+baller.example.GritAcademyAPI.Courses.entityandDTO
+baller.example.GritAcademyAPI.Courses.repository
+baller.example.GritAcademyAPI.Courses.service
+baller.example.GritAcademyAPI.student_courses.controller
+baller.example.GritAcademyAPI.student_courses.entityandDTO
+baller.example.GritAcademyAPI.student_courses.repository
+baller.example.GritAcademyAPI.student_courses.service
+baller.example.GritAcademyAPI.Students.controller
+baller.example.GritAcademyAPI.Students.entityAndDTO
+baller.example.GritAcademyAPI.Students.repository
+baller.example.GritAcademyAPI.Students.service
