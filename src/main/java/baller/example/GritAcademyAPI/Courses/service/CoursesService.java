@@ -142,7 +142,7 @@ public class CoursesService {
      * @return List<>StudentDTO</>
      */
     public List<StudentDTO> getAllCoursesWithStudents(){
-        return studentsService.getAllStudentsWithCourses();
+        return studentsService.getTable().stream().map(StudentDTO::mapToDTOWithCourses).collect(Collectors.toList());
 
     }
 
